@@ -32,25 +32,56 @@ But,
 ![image](https://github.com/Vallum/new_vision/assets/30591790/55858ea9-afba-4978-8399-5b6772c112bd)
 ![image](https://github.com/Vallum/new_vision/assets/30591790/7d021750-babd-437d-a700-523dab2fa1e2)
 
-### Vision in DL
+### Vision in DL without Language Model
 
-Without Language
+Even without language models, however there is always some context.
 
-But always there is some context
+With class signature, but not with syntax or bag of words
+- ImageNet 21K categories
+- ImageNet 1000 categories
+![image](https://github.com/Vallum/new_vision/assets/30591790/764bb2c8-8056-4184-8e56-268f1df6f894)
+![image](https://github.com/Vallum/new_vision/assets/30591790/0ba191c3-94b1-4265-b3be-83d44c730882)
 
-With Language, but not with syntax or bag of words
-ImageNet 1000 categories
-ImageNet 21K categories
-They are from WordNet
+| Class ID | Class Name                                                                                        |
+|----------|---------------------------------------------------------------------------------------------------|
+| 0        | tench, Tinca tinca                                                                                        |
+| 1        | goldfish, Carassius auratus                                                                            |
+| 2        | great white shark, white shark, man-eater, man-eating shark, Carcharodon caharias',                  |
+| 3        | tiger shark, Galeocerdo cuvieri                                                                   |
+| 4        | hammerhead, hammerhead shark                                                                        |
+| 5        | electric ray, crampfish, numbfish, torpedo                                                        |
+| 6        | stingray                                                                                         |
+| 7        | cock                                                                                             |
+| 8        | hen                                                                                               |
+| 9        | ostrich, Struthio camelus                                                                           |
+| 10       | brambling, Fringilla montifringilla                                                                |
+| 11       | goldfinch, Carduelis carduelis                                                                     |
+| 12       | house finch, linnet, Carpodacus mexicanus                                                      |
+| 13       | junco, snowbird                                                                                   |
+| 14       | indigo bunting, indigo finch, indigo bird, Passerina cyanea                                       |
+| 15       | robin, American robin, Turdus migratorius    |                   
+
+
+The entities are from WordNet
+![image](https://github.com/Vallum/new_vision/assets/30591790/cf05aaac-2c2f-48d1-88e1-cb1c8446ab38)
+(https://www.cs.princeton.edu/courses/archive/spring11/cos226/assignments/wordnet.html)
+
+### CLIP
 
 With Language with bag of words and little syntax
-CLIP
-Can we understand visual information only by visual information?
+![image](https://github.com/Vallum/new_vision/assets/30591790/04b5ec2b-3b14-4469-b94d-596c1bafb69d)
+(Open AI)
 
-With Language with syntax
-GPT-{3,4}
-ChatGPT-{3,4}
+Can we understand visual information only with visual information?
 
-Dalle-X
+### With Language with syntax
+
+With Large Language models such as GPT-{3,4}, ChatGPT-{3,4}
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/9ff702aa-8021-4609-8496-a2e15fd0f74d)
+
+
+### UnClip
+Dalle-3
 
 Prompt is Context
