@@ -26,12 +26,13 @@ ChatGPT
 ![image](https://github.com/Vallum/new_vision/assets/30591790/f7dd523b-5da6-4e91-867d-6953fc8146a6)
 
 But,
+### Visual Understanding in context
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/1df509e9-36e5-4723-ab24-771c39a93aec)
 ![image](https://github.com/Vallum/new_vision/assets/30591790/55858ea9-afba-4978-8399-5b6772c112bd)
 ![image](https://github.com/Vallum/new_vision/assets/30591790/7d021750-babd-437d-a700-523dab2fa1e2)
 
-### Vision
+### Vision in DL
 
 Without Language
 
@@ -47,8 +48,8 @@ CLIP
 Can we understand visual information only by visual information?
 
 With Language with syntax
-GPT-X
-ChatGPT-X
+GPT-{3,4}
+ChatGPT-{3,4}
 
 Dalle-X
 
