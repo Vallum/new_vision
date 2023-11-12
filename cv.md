@@ -2,7 +2,7 @@
 - 2012- Naver Inc.
 - 2009-2012 KB Securities
 - 2007-2009 Daishin Securities
-- 2004-2004 NHN Inc.
+- 2004-2005 NHN Inc.
 - 2003-2004 Korea Development Bank
 
 ### Education
