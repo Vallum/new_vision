@@ -7,7 +7,9 @@ Everybody knows deep learning.
 ### So, what is deep learning?
 
 Artificial Neural Networks
+
 Convoultional Neural Networks
+
 ![image](https://github.com/Vallum/new_vision/assets/30591790/c68d0b88-beab-4934-bedc-80e4590afbe0)
 
 Attention
