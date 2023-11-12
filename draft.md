@@ -85,8 +85,9 @@ To understand this as an airplane.
 
 Do we just need many pictures?
 
-
 ### Vision in DL without descrptive interpretation
+
+With a million images,
 
 Without description, however there is always some context.
 
