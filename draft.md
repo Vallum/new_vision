@@ -146,7 +146,17 @@ With Large Language models such as GPT-{3,4}, ChatGPT-{3,4}
 ![image](https://github.com/Vallum/new_vision/assets/30591790/9ff702aa-8021-4609-8496-a2e15fd0f74d)
 
 ### UnClip
-Dalle-3
+
+Dalle-2,3
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/d3d1799c-4beb-472e-8bf7-86682d3384ee)
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/3571161d-958d-4e12-8be4-ff59bc31f33b)
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/679f5ca3-fae2-4912-913a-cbfad283eac9)
+
+HierarchicalText-Conditional ImageGenerationwithCLIPLatents
+
 
 ### Image as a language
 
