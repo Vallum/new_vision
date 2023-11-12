@@ -67,7 +67,7 @@ Apparently they have some fear about unknown monsters in their DNA and brain-wir
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/7d021750-babd-437d-a700-523dab2fa1e2)
 
-The bisons are indifferent about cars.
+The bisons are indifferent of cars.
 
 Do they know a car?
 
@@ -140,7 +140,6 @@ With Large Language models such as GPT-{3,4}, ChatGPT-{3,4}
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/9ff702aa-8021-4609-8496-a2e15fd0f74d)
 
-
 ### UnClip
 Dalle-3
 
@@ -150,4 +149,31 @@ Dalle-3
 
 Image as a foreign language
 
+![image](https://github.com/Vallum/new_vision/assets/30591790/e442693c-7c11-4128-96fd-eae339adbf38)
+
 Prompt is Context
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/621941d5-8241-405b-b641-9f91b29a3c68)
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/a9d65828-e083-42e8-a519-822e41f2bd83)
+
+Overall, machine vision is a task of photo(image) description.
+
+### What if the subject has no language to describe 4-D world?
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/4626be98-f0bd-4b5a-af5d-0c3cdfad8d31)
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/75c1d73e-783e-486a-a36e-4b8e371ea178)
+
+Can they descriptively model the world in their brains?
+
+### What if the object shows only part of the 4-D world?
+
+Do Vision AIs perceive this a car when they have unseen it? 
+
+To describe this as a 180 degree rear view of some car?
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/e9573486-6c2b-446f-9a69-db493894fb4b)
+
+### Conclusion
+
