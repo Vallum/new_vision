@@ -44,6 +44,8 @@ This is higher level vision with many modules.
 
 Their functions are various, but anatomically they are homogeneous.
 
+Cortical columns?
+
 Nonetheless, there are entangled hierarchies.
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/103c2bbc-6f83-496c-9a28-71a9c536856f)
