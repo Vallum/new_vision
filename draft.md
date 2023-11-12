@@ -172,6 +172,8 @@ Prompt is Context
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/a9d65828-e083-42e8-a519-822e41f2bd83)
 
+Remember the homogenuity of neural anatomy. 
+
 Overall, machine vision is a task of photo(image) description.
 
 ### What if the subject has no language to describe 4-D world?
@@ -184,7 +186,9 @@ Can they descriptively model the world in their brains?
 
 ### What if the object shows only part of the 4-D world?
 
-Do Vision AIs perceive this a car when they have unseen it? 
+Do Vision AIs perceive this as a car when they have unseen it? 
+
+Yes, maybe. But...
 
 To describe this as a 180 degree rear view of some car?
 
@@ -192,3 +196,5 @@ To describe this as a 180 degree rear view of some car?
 
 ### Conclusion
 
+- Vision task is a description of electro-magnetic signal in language or in some semiotic form,
+- via object entitiy modeling(or understanding).
