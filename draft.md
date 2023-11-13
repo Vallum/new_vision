@@ -57,6 +57,8 @@ Classical vision learning seems to believe so.
 
 ### Visual Understanding in context
 
+- You can see as much as you know
+  
 ![image](https://github.com/Vallum/new_vision/assets/30591790/1df509e9-36e5-4723-ab24-771c39a93aec)
 
 Do dogs differenciate a tiger and a stuffed animal?
@@ -193,6 +195,18 @@ Yes, maybe. But...
 To describe this as a 180 degree rear view of some car?
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/e9573486-6c2b-446f-9a69-db493894fb4b)
+
+### Yet Again Physical Reality
+
+- Perceiving space and location
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/de6bcec7-dcdb-4307-a2d8-8ae2a2f53352)
+
+(OpenImages)
+
+- And 3-D Perception
+
+- With anatomical homogeneous modules.
 
 ### Conclusion
 
