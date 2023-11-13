@@ -75,21 +75,29 @@ Do they really have the concept?
 
 Apparently they have some fear about unknown monsters in their DNA and brain-wiring from the natural selection.
 
+If their visual resolution is not high enough and if they have extended analogical ability, they could imagine it as a some live predator.
+
+Eyes, ears, legs, args, and tooth with claws
+
 ![image](https://github.com/Vallum/new_vision/assets/30591790/7d021750-babd-437d-a700-523dab2fa1e2)
 
-The bisons are indifferent of cars.
+Howeve, the bisons are indifferent of cars.
 
-Do they know a car?
+Do they know what a car is?
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/61bf9c6c-3582-4736-b55d-a792c1e3c2f9)
 
-To understand this as a car.
+To understand this as a car, what do we know as background knowdledge?
+
+Four wheels, fuels, and the history of carriage through internal combustion engines?
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/14d5cf93-8084-46e4-8fa8-06b9e491decf)
 
-To understand this as an airplane.
+To understand this as an airplane, ...
 
-Do we just need many pictures?
+However, for Deep Learning, we usaully do not provide those kinds of knowleges to networks.
+
+Instead, we just need many pictures.
 
 ### Vision in DL without descrptive interpretation
 
