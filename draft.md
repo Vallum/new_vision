@@ -5,6 +5,7 @@ Hierarchical Machine Vision in complex modality
 - In this talk, we are going to explore recent vision AI trends related to complex modal architecture.
 
 - Starting from Deep Learning revolution,
+
   - via comparative study with animal vision,
   - through Vision-Language multi-modal
 
