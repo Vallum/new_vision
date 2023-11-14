@@ -16,10 +16,16 @@ Convoultional Neural Networks
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/c68d0b88-beab-4934-bedc-80e4590afbe0)
 
+Feature learning with backpropagation algorithm.
+
 Attention
 Transformers
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/f3c306c3-9555-4342-b9c4-aaa61f667167)
+
+"Attention is All you need"
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/1a2e9d82-eccb-4406-80ac-0566370475ee)
 
 "Attention is All you need"
 
@@ -29,9 +35,21 @@ Transformers
 
 "Improving Language Understanding by GenerativePre-Training" GPT-1
 
+![image](https://github.com/Vallum/new_vision/assets/30591790/ed9f6818-a07b-46e8-adb7-372e9b5a9ad2)
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/47605230-2fea-4255-84ca-e1a605885360)
+
+![image](https://github.com/Vallum/new_vision/assets/30591790/acef46e9-449d-46a3-a843-d68753e4169b)
+
 GPT-2, GPT-3, ChatGPT
 
-Deep learning is 'interpreting' process of data.
+c.f. ) Conventional vision CNN modes' parameters are from 20M (Resnet-50) to 200M (Swin-L)
+
+Think, In mice's brain, how much of the proportion was taken by vision processing units?
+
+I guess it's up to 40~50 %.
+
+Summary : Deep learning is 'interpreting' process of data.
 
 ### Data and Language
 
