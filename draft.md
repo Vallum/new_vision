@@ -4,12 +4,14 @@ Hierarchical Machine Vision in complex modality
 
 - In this talk, we are going to explore recent vision AI trends related to complex modal architecture.
 
-- Starting from Deep Learning revolution, via comparative study with animal vision, through Vision-Language multi-modal
+- Starting from Deep Learning revolution,
+  - via comparative study with animal vision,
+  - through Vision-Language multi-modal
 
 - We are going to revisit the understanding of vision. 
 
 
-### Deep Learning
+## Deep Learning
 
 Everybody knows deep learning.
 
@@ -56,7 +58,7 @@ I guess it's up to 40~50 %.
 
 Summary : Deep learning is 'interpreting' process of data.
 
-### Data and Language
+## Data and Language
 
 ### Visual Processing and Hierarchy in Science
 ![image](https://github.com/Vallum/new_vision/assets/30591790/450dc1d4-f03d-4c78-8eb4-61689015e67f)
@@ -259,7 +261,7 @@ To describe this as a 180 degree rear view of some car?
 - The brain sees only what it has remembered (in long, short, or very short). (We see as much as we know.)
 - But, how and where with what mechanism?
  
-### Conclusion
+## Conclusion
 
 - Vision task is a description of electro-magnetic signal in language or in some semiotic form,
 - via object entity modeling(or understanding).
