@@ -43,7 +43,7 @@ Transformers
 
 GPT-2, GPT-3, ChatGPT
 
-c.f. ) Conventional vision CNN modes' parameters are from 20M (Resnet-50) to 200M (Swin-L)
+c.f. ) Conventional vision CNN or VIT(vision transformer) models' parameters are from 20M (Resnet-50) to 200M (Swin-L)
 
 Think, In mice's brain, how much of the proportion was taken by vision processing units?
 
@@ -69,6 +69,10 @@ Their functions are various, but anatomically they are homogeneous.
 Cortical columns?
 
 Nonetheless, there are entangled hierarchies.
+
+C.f.) There is no machine vision system combined like this yet.
+
+OCR detector, Face detector, Face recognition, Object detector, vision classifier, 3-D detection, but not combined.
 
 ![image](https://github.com/Vallum/new_vision/assets/30591790/103c2bbc-6f83-496c-9a28-71a9c536856f)
 ![image](https://github.com/Vallum/new_vision/assets/30591790/f7dd523b-5da6-4e91-867d-6953fc8146a6)
@@ -238,7 +242,15 @@ To describe this as a 180 degree rear view of some car?
 
 - With anatomical homogeneous modules.
 
+### Where does the modeling happen?
+
+- The brain does not deal with physical reality.
+- It only deal with internally processed signals.
+- It doesn't matter the source is from electro-magnetic signal, sound wave, photographic memory or "hallucination".
+- We do not see what we see.
+- The brain sees only what it has remembered. (We see as much as we know.)
+
 ### Conclusion
 
 - Vision task is a description of electro-magnetic signal in language or in some semiotic form,
-- via object entitiy modeling(or understanding).
+- via object entity modeling(or understanding).
