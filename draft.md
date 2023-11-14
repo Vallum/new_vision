@@ -243,13 +243,17 @@ To describe this as a 180 degree rear view of some car?
 - With anatomical homogeneous modules.
 
 ### Where does the modeling happen?
-
-- The brain does not deal with physical reality.
+- Karl Friston, Free Energy Principle
+  - The free energy principle is a theoretical framework suggesting that the brain reduces surprise or uncertainty
+  - by making predictions based on internal models and updating them using sensory input.
+  - It highlights the brain's objective of aligning its internal model with the external world to enhance prediction accuracy.
+- The brain (as well as machine vision :< ) does not deal with physical reality.
 - It only deal with internally processed signals.
-- It doesn't matter the source is from electro-magnetic signal, sound wave, photographic memory or "hallucination".
+- It doesn't matter the source is from electro-magnetic signal, sound wave, photographic memory or especially "hallucination".
 - We do not see what we see.
-- The brain sees only what it has remembered. (We see as much as we know.)
-
+- The brain sees only what it has remembered (in long, short, or very short). (We see as much as we know.)
+- But, how and where with what mechanism?
+ 
 ### Conclusion
 
 - Vision task is a description of electro-magnetic signal in language or in some semiotic form,
